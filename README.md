@@ -2,17 +2,17 @@
  I am working at ME Group Enterprise 🤗
 
 ## </ CodingLanguege >
-- Python
+- Python (ImageProcessing)
 
-- HTML & CSS
+- HTML & CSS (Front-End)
 
-- PHP
+- PHP (WebApplication)
 
-- Javacript & Typescript
+- Javacript & Typescript (WebApplication)
 
-- C Ardunio
+- C Ardunio (IoT)
 
-- Golang
+- Golang (Back-End)
 
 
 ## </ Database >
