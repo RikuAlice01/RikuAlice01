@@ -12,9 +12,11 @@
 
 - Javacript & Typescript (WebApplication)
 
-- C Ardunio (IoT)
-
 - Golang (Back-End)
+
+- C ,C++ Ardunio (IoT)
+
+- Python
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RikuAlice01)
 
