@@ -32,5 +32,4 @@
 
 ![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=RikuAlice01)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21smwadtyanpzd3p64ozfqp4q&width=1000)
 
