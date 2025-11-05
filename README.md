@@ -10,6 +10,7 @@ I specialize in Front-End, Back-End, IoT, and UX/UI Design. I also have a keen i
 ![Tailwind CSS](https://img.shields.io/badge/tailwind-informational?style=flat&logo=tailwind-css&color=000000)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&color=000000)
 ![n8n](https://img.shields.io/badge/n8n-informational?style=flat&logo=n8n&color=000000)
+![supabase](https://img.shields.io/badge/supabase-informational?style=flat&logo=supabase&color=000000)
 
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=RikuAlice01&theme=onedark&row=1&column7)](https://github.com/RikuAlice01)
@@ -49,6 +50,7 @@ I specialize in Front-End, Back-End, IoT, and UX/UI Design. I also have a keen i
 - Firebase
 - MongoDB
 - MySQL
+- Supabase
 
 ---
 
