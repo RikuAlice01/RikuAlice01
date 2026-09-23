@@ -58,8 +58,6 @@ I specialize in Front-End, Back-End, IoT, and UX/UI Design. I also have a keen i
 
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RikuAlice01&theme=graywhite&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RikuAlice01&theme=dark&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)
 ---
 
